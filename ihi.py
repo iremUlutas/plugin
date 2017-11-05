@@ -13,3 +13,6 @@ class PepperCommand(sublime_plugin.TextCommand):
             self.view.set_read_only(True)
             #self.view.set_status('toggle_readonly', 'Readonly')
             self.view.window().status_message('riid onli')
+
+            #selam bebek
+            
