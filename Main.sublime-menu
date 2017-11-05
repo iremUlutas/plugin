@@ -1,0 +1,12 @@
+[
+	{
+	  "id" : "preferences",
+	  "children":
+	    [
+	    	{
+		 			"id" : "tusa",
+		    	"command" : "pepper"
+	    	}
+	    ]
+	}
+]
